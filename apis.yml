@@ -1,0 +1,32 @@
+aid: code-stats
+name: Code::Stats
+description: "Automatic time tracking for programmers"
+url: https://codestats.net/api-docs
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Documents & Productivity"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Documents And Productivity
+  - Public APIs
+apis:
+  - name: Code::Stats
+    description: "Automatic time tracking for programmers"
+    humanURL: https://codestats.net/api-docs
+    baseURL: https://codestats.net/api-docs
+    tags:
+      - Documents And Productivity
+    properties:
+      - type: Documentation
+        url: https://codestats.net/api-docs
+common:
+  - type: Website
+    url: https://codestats.net/api-docs
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
