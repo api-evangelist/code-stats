@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://codestats.net/api-docs
 common:
+  - type: DomainSecurity
+    url: security/code-stats-domain-security.yml
   - type: Website
     url: https://codestats.net/api-docs
   - type: PublicAPIsListing
