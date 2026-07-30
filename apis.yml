@@ -1,4 +1,16 @@
 aid: code-stats
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/code-stats.png
 name: Code::Stats
 description: "Automatic time tracking for programmers"
 url: https://codestats.net/api-docs
