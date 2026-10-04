@@ -33,13 +33,12 @@ x-category: "Documents & Productivity"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
-  - Documents And Productivity
   - Public APIs
+  - Time Tracking
 apis:
   - name: Code::Stats
     description: "Automatic time tracking for programmers"
     humanURL: https://codestats.net/api-docs
-    baseURL: https://codestats.net/api-docs
     tags:
       - Documents And Productivity
     properties:
@@ -55,3 +54,5 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-tags-removed:
+- Documents And Productivity
