@@ -39,7 +39,8 @@ apis:
   - name: Code::Stats
     description: "Automatic time tracking for programmers"
     humanURL: https://codestats.net/api-docs
-    tags:
+    tags: []
+    tags_raw:
       - Documents And Productivity
     properties:
       - type: Documentation
